@@ -1,0 +1,43 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #eeeeee;
+}
+
+#container{
+    display: flex;
+    flex-direction : column;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+#contentWrapper{
+    padding: 10px;
+    border: 1px solid #FFFFFF;
+    width: 60%;
+}
+
+.ad-button{
+    padding: 10px;
+    background-color: #536dfe;
+    display: inline-block;
+    color: #FFFFFF;
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 5px;
+    transition: 1s all ease;
+}
+.ad-button:hover{
+    background-color: rgb(63, 78, 104);
+}
