@@ -1,0 +1,27 @@
+{
+  "name": "native-clipboard",
+  "version": "1.0.0",
+  "description": "Copying text to the clipboard",
+  "main": "native-clipboard.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityaghosh1987/native-clipboard.git"
+  },
+  "keywords": [
+    "clipboard",
+    "native-clipboard",
+    "js-clipboard"
+  ],
+  "author": " <adityashr.ghosh@gmail.com> (https://github.com/adityaghosh1987)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityaghosh1987/native-clipboard/issues"
+  },
+  "homepage": "https://github.com/adityaghosh1987/native-clipboard#readme"
+}

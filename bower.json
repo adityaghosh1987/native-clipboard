@@ -1,0 +1,26 @@
+{
+  "name": "native-clipboard",
+  "main": "native-clipboard.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/adityaghosh1987/native-clipboard",
+  "authors": [
+    "adityaghosh1987 <adityashr.ghosh@gmail.com>"
+  ],
+  "description": "Copying text to the clipboard",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "clipboard",
+    "native-clipboard",
+    "js-clipboard"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
