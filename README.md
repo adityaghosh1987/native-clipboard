@@ -1,5 +1,5 @@
 # native-clipboard
-Copying text to the clipboard
+This will copy the text to the clipboard
 
 ## Install
 You can install this package either with `npm` or with `bower`.
